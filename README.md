@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ahmed
 ==============================================================================================================================
 
-Cyber Security | Penetration Test | Information Technology | Linux | Windows | Programming
+Cybersecurity | Penetration Test | Information Technology | Linux | Windows | Programming
 ------------------------------------------------------------------------------------------
 
 I am a cybersecurity learner, moving forward to improve my understanding and continue training to stay safe. This has pushed me to deepen my knowledge of Linux and Windows systems in order to keep learning, better understand, and improve security.
